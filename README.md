@@ -54,6 +54,7 @@ To connect to the server, you can use:
   - `nc <IP ADDRESS> <PORT>`
     - **IP ADDRESS**: Host IP address.
     - **PORT**: The PORT that the server listening on.
+    - Once connected, use PASS, USER and NICK in that order to successfully login.
   - You can also use an IRC Client e.g LimeChat, WeeChat, Hexchat and others.
 
 # 💪 Contributers
@@ -68,10 +69,9 @@ To connect to the server, you can use:
 # 👨‍💻 Ressources
 * [IRC Norme](https://modern.ircdocs.horse/)
 
-* [Internet Relay Chat: Client Protocol](https://datatracker.ietf.org/doc/html/rfc2812)
-* [Internet Relay Chat: Server Protocol](https://datatracker.ietf.org/doc/html/rfc2813)
+# Peer Review
+This project was reviwed by three of our peers who gave us some feedback.
+![image](https://github.com/willrsq1/Ft_IRC/assets/117649637/44cbe4ca-ccea-4a50-9e0e-1a578dbf0577)
 
----
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/barimehdi77)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K45UOA7)
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/barimehdi77)
+
+Description inspired by barimehdi77
