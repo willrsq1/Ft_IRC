@@ -37,8 +37,8 @@ These are the available commands in our IRC Server:
   - **GETFILE**: The GETFILE command is used to receive a file from another user.
   - **MODE**: The user MODE's are typically changes which affect either the settings of a channels.
       MODE's parameters:
-          - '-o': Used by a channel operator to give/take operator privilege to/from another client.
-          - '-t': Sets or unsets the TOPIC for a channel.
+          \n- '-o': Used by a channel operator to give/take operator privilege to/from another client.
+          \n- '-t': Sets or unsets the TOPIC for a channel.
           - '-k': Creates or deletes the password requiered to join a channel.
           - '-l': Sets of unsets the max number of clients allowed in a channel.
           - '-i': Changes the channel to an 'invite-only- channel.
