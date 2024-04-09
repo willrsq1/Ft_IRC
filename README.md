@@ -74,4 +74,8 @@ This project was reviwed by three of our peers who gave us some feedback.
 ![image](https://github.com/willrsq1/Ft_IRC/assets/117649637/44cbe4ca-ccea-4a50-9e0e-1a578dbf0577)
 
 
+## Final Grade
+![image](https://github.com/willrsq1/Ft_IRC/assets/117649637/faaa4d50-5778-40db-88ee-c628d9cc5b98)
+
+
 Description inspired by barimehdi77
